@@ -2,7 +2,7 @@
 
 # ❤️🪵
 
-*Radicle Heartwood Protocol & Stack*
+*Protocolo Radicle Heartwood & Stack*
 
 Heartwood es la tercera versión del Protocolo Radicle, una poderosa colaboración de codigo peer-to-peer (entre pares) y publicación de stack. El repositorio tiene una implementación completa de Heartwood, hecha con una interfaz de línea de comandos amigable y fácil de usar (`rad`) y un daemon de red (`radicle-node`).
 
