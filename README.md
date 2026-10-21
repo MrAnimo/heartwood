@@ -1,3 +1,5 @@
+[English](README.md) | [Español](README.es.md)
+
 # ❤️🪵
 
 *Radicle Heartwood Protocol & Stack*
