@@ -1,4 +1,4 @@
-[English](../README.md) | [Español](../README.es.md)
+[English](/heartwood/README.md) | [Español](/heartwood/README.es.md)
 
 # ❤️🪵
 
