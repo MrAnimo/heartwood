@@ -48,7 +48,7 @@ O directamente desde nuestro nodo semilla:
         --git https://seed.radicle.dev/z3gqcJUoA1n9HaHKufZs5FCSGazv5.git \
         crates/radicle-cli crates/radicle-node crates/radicle-remote-helper
 
-# Ejecución
+## Ejecución
 
 Los unit files de *Systemd* para el nodo se encuentran en la carpeta `/systemd`. Estos pueden utilizarse como punto de partida para personalizarlo/customizarlo más.
 
